@@ -1,5 +1,5 @@
 ITEM.name = "Armure EAGLE FREEDOM"
-ITEM.model ="models/kek1ch/scientific_outfit.mdl"
+ITEM.model ="models/lostsignalproject/items/upgrades/upgro2.mdl"
 ITEM.newModel ="models/nasca/stalker/male_eagle_free.mdl"
 ITEM.description= "Armure de protection FREEDOM."
 ITEM.longdesc = "Une armure de combat utilisé par la faction FREEDOM, cette armure est résistante et très polyvalente en combat."

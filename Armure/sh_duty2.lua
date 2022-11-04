@@ -1,5 +1,5 @@
 ITEM.name = "Armure expedition DUTY"
-ITEM.model ="models/kek1ch/scientific_outfit.mdl"
+ITEM.model ="models/lostsignalproject/items/upgrades/upgro2.mdl"
 ITEM.newModel ="models/nasca/stalker/male_expedition.mdl"
 ITEM.description= "Armure d'expedition des DUTY."
 ITEM.longdesc = "Une armure spécialisée dans l'exploration de zones dangereuses créer par les DUTY."
