@@ -1,6 +1,6 @@
 ITEM.name = "SSP MKII"
 ITEM.model ="models/lostsignalproject/items/repair/repair_helmet_repair.mdl"
-ITEM.newModel ="models/nasca/stalker/male_ssp_eco.mdl"
+ITEM.newModel ="models/stalker_ecologist/stalker_ecolog.mdl"
 ITEM.description= "Une combinaison SSP-99, améliorée par les écologistes."
 ITEM.longdesc = "Une combinaison de recherche scientifique SSP-99 MKII spécialement conçue pour les conditions de la Zone. Elle est utilisée par les expéditions scientifiques et les éco-stoppeurs qui coopèrent avec elles. Elle dispose d'un système intégré de filtration et de climatisation de l'air. Elle résiste à la chaleur et à l'électricité, offre une bonne protection contre les radiations et les anomalies biologiques. Il est résistant aux environnements chimiquement agressifs. Il n'est pas conçu pour le combat, il ne protège donc ni des balles, ni des éclats."
 ITEM.width = 2
