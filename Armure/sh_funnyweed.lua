@@ -1,0 +1,23 @@
+ITEM.name = "FunnyWeed Sunrise"
+ITEM.model ="models/kek1ch/freeheavy_outfit.mdl"
+ITEM.newModel ="models/stalkertnb/exo_funnyweed.mdl"
+ITEM.description= "Armure Sunrise FunnyWeed"
+ITEM.longdesc = "Cette armure est pas mal commercialisée dans la zone fantôme, elle est pratique pas trop lourde et bien résistante, en plus de posséder une armature d'exosquelette !"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 60000
+ITEM.busflag = "dev"
+ITEM.br = 0
+ITEM.fbr = 0 
+ITEM.ar = 0
+ITEM.far = 0
+ITEM.isHelmet = true
+ITEM.isGasmask = false
+ITEM.radProt = 0.9
+ITEM.repairCost = ITEM.price/100*1
+ITEM.ballisticlevels = {"ll","lV","lV","lV","lll-a"}
+ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_126.png")
+ITEM.noBusiness = true
+
+ITEM.weight = 10.400
+ITEM.miscslots = 4
