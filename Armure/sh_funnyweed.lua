@@ -1,5 +1,5 @@
 ITEM.name = "FunnyWeed Exo"
-ITEM.model ="models/kek1ch/freeheavy_outfit.mdl"
+ITEM.model ="models/kek1ch/exo_outfit.mdl"
 ITEM.newModel ="models/stalkertnb/exo_funnyweed.mdl"
 ITEM.description= "Armure Exo FunnyWeed"
 ITEM.longdesc = "Cette armure est pas mal commercialisée dans la zone fantôme, elle est pratique pas trop lourde et bien résistante, en plus de posséder une armature d'exosquelette !"
