@@ -1,0 +1,23 @@
+ITEM.name = "Symmetry Sunrise"
+ITEM.model ="models/kek1ch/ghillie_outfit.mdl"
+ITEM.newModel ="models/stalkertnb/sunrise_symmetry.mdl"
+ITEM.description= "Armure Symmetry"
+ITEM.longdesc = "L'armure Symmetry Sunrise est une version améliorée de la Sunrise de base, possédant un gilet Ghili elle est parfait pour la chasse !"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 40000
+ITEM.busflag = "dev"
+ITEM.br = 0.15
+ITEM.fbr = 15
+ITEM.ar = 0.40
+ITEM.far = 3
+ITEM.isHelmet = true
+ITEM.isGasmask = true
+ITEM.radProt = 0.5
+ITEM.repairCost = ITEM.price/100*1
+ITEM.ballisticlevels = {"l","lll","lll","lll","ll-a"}
+ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_ghillie.png")
+ITEM.noBusiness = true
+
+ITEM.weight = 8.400
+ITEM.miscslots = 4
