@@ -16,7 +16,7 @@ ITEM.isGasmask = true
 ITEM.radProt = 0.9
 ITEM.repairCost = ITEM.price/100*1
 ITEM.ballisticlevels = {"ll","lV","lV","lV","lll-a"}
-ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_126.png")
+ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_25.png")
 ITEM.overlayPath = "vgui/overlays/hud_exo1.png"
 ITEM.noBusiness = true
 
