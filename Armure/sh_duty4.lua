@@ -1,0 +1,24 @@
+ITEM.name = "DUTY tenue de combat supérieur"
+ITEM.model ="models/lostsignalproject/items/upgrades/upgro2.mdl"
+ITEM.newModel ="models/nasca/stalker/male_sunset_duty.mdl"
+ITEM.description= "Tenue de combat avancée duty."
+ITEM.longdesc = "Tenue de combat avancée utilisée par la faction DUTY."
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 100000
+ITEM.busflag = "dev"
+ITEM.br = 4
+ITEM.fbr = 6
+ITEM.ar = 0.60
+ITEM.far = 8
+ITEM.isHelmet = true
+ITEM.isGasmask = true
+ITEM.radProt = 0.9
+ITEM.repairCost = ITEM.price/100*1
+ITEM.ballisticlevels = {"l","lV","lV","lll","ll"}
+ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_48.png")
+ITEM.overlayPath = "vgui/overlays/hud_tact.png"
+ITEM.noBusiness = true
+
+ITEM.weight = 9.400
+ITEM.miscslots = 4
