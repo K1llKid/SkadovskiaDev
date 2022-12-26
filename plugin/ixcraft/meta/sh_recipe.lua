@@ -7,7 +7,7 @@ RECIPE.__index = RECIPE
 RECIPE.name = "undefined"
 RECIPE.description = "undefined"
 RECIPE.uniqueID = "undefined"
-RECIPE.category = "Crafting"
+RECIPE.category = "Artisanat"
 
 function RECIPE:GetName()
 	return self.name
