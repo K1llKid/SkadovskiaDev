@@ -1,6 +1,6 @@
 ITEM.name = "DUTY Armure Major"
-ITEM.model ="models/stalkertnb/exo_zaku.mdl"
-ITEM.newModel ="models/stalkertnb/rad_bear.mdl"
+ITEM.model ="models/lostsignalproject/items/upgrades/upgro2.mdl"
+ITEM.newModel ="models/stalkertnb/exo_zaku.mdl"
 ITEM.description= "Armure Mojor DUTY"
 ITEM.longdesc = "La meilleur armure duty possible."
 ITEM.width = 2
