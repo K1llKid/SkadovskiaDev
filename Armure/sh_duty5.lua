@@ -1,0 +1,24 @@
+ITEM.name = "DUTY Armure Major"
+ITEM.model ="models/stalkertnb/exo_zaku.mdl"
+ITEM.newModel ="models/stalkertnb/rad_bear.mdl"
+ITEM.description= "Armure Mojor DUTY"
+ITEM.longdesc = "La meilleur armure duty possible."
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 100000
+ITEM.busflag = "dev"
+ITEM.br = 2
+ITEM.fbr = 16
+ITEM.ar = 0.60
+ITEM.far = 5
+ITEM.isHelmet = true
+ITEM.isGasmask = true
+ITEM.radProt = 0.9
+ITEM.repairCost = ITEM.price/100*1
+ITEM.ballisticlevels = {"ll","lV","lV","lV","lll-a"}
+ITEM.img = ix.util.GetMaterial("cotz/ui/icons/outfit_128.png")
+ITEM.overlayPath = "vgui/overlays/hud_exo.png"
+ITEM.noBusiness = true
+
+ITEM.weight = 12.400
+ITEM.miscslots = 6
