@@ -6,4 +6,4 @@
 - plugin
 
 > Serveur indépendant, non nécessité de staff. PVE/PVP, Helix.
-### Discord : https://discord.gg/855zfAUur5
+### Discord : https://discord.gg/skadovskia
