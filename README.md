@@ -4,6 +4,7 @@
 # Les différents  script lisible pour le moment sont : 
 - Les armures
 - plugin
+- Equipements de tête
 
 > Serveur indépendant, non nécessité de staff. PVE/PVP, Helix.
 ### Discord : https://discord.gg/skadovskia
