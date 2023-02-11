@@ -1,6 +1,6 @@
 local PLUGIN = PLUGIN
 PLUGIN.name = "Redémarrage"
-PLUGIN.author = "A3R1S"
+PLUGIN.author = "verne"
 PLUGIN.desc = "restart le serveur à un temps modifiable"
 
 PLUGIN.NextRestart = 0
