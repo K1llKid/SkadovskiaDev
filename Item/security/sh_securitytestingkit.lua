@@ -1,0 +1,11 @@
+ITEM.name = "Kit de test de sécurité"
+ITEM.description = "Un kit de test de sécurité"
+ITEM.longdesc = "Outils conçus pour aider un technicien qualifié à tester la sécurité de systèmes avancés, le plus souvent en les contournant."
+ITEM.model = "models/kek1ch/toolkit_p.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 30000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "electronic"
+ITEM.securityquality = 5
+ITEM.weight = 0.25

@@ -1,0 +1,11 @@
+ITEM.name = "Pulseur"
+ITEM.description = "Un Pulseur"
+ITEM.longdesc = "Outil de base des électriciens pour analyser les fils et envoyer des signaux à travers eux, une personne intelligente peut l'utiliser pour contourner les serrures électroniques."
+ITEM.model = "models/alyx_emptool_prop.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 2000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "electronic"
+ITEM.securityquality = 2
+ITEM.weight = 0.25

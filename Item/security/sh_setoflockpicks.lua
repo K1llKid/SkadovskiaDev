@@ -1,0 +1,11 @@
+ITEM.name = "Pack de crochets"
+ITEM.description = "Un ^pack de crochet"
+ITEM.longdesc = "Equipement de base pour le crochetage de serrures, donne des outils pour manipuler la plupart des serrures dans un contexte de "terrain"."
+ITEM.model = "models/kek1ch/box_toolkit_2.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 4000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "mechanical"
+ITEM.securityquality = 3
+ITEM.weight = 0.25

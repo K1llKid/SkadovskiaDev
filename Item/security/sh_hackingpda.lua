@@ -1,0 +1,11 @@
+ITEM.name = "PDA hacker"
+ITEM.description = "Un PDA hacker"
+ITEM.longdesc = "Un PDA équipé d'un système d'exploitation avec un logiciel de piratage préinstallé permet à un pirate entraîné d'attaquer des cibles avec une sécurité commerciale."
+ITEM.model = "models/kek1ch/dev_pda.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 4000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "computers"
+ITEM.securityquality = 3
+ITEM.weight = 0.25

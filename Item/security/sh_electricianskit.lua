@@ -1,0 +1,11 @@
+ITEM.name = "Kit d'électricien"
+ITEM.description = "Le kit de l'électricien"
+ITEM.longdesc = "Un ensemble complet d'outils et de dispositifs pour entretenir, réparer et contourner les systèmes de sécurité commerciaux."
+ITEM.model = "models/kek1ch/toolkit_p.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 15000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "electronic"
+ITEM.securityquality = 4
+ITEM.weight = 0.25

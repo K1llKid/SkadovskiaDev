@@ -1,0 +1,11 @@
+ITEM.name = "Kit du serrurier"
+ITEM.description = "Le kit du serrurier"
+ITEM.longdesc = "Grand kit d'outils divers conçus pour réparer les serrures, tester leur sécurité, les ouvrir en toute sécurité."
+ITEM.model = "models/kek1ch/box_toolkit_2.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 15000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "mechanical"
+ITEM.securityquality = 4
+ITEM.weight = 0.25

@@ -1,0 +1,11 @@
+ITEM.name = "Ferme de robots Brute-Force"
+ITEM.description = "Une ferme de robots à la force brutale"
+ITEM.longdesc = "Un ordinateur portable avec une connexion Internet sans fil et un abonnement à une ferme de PC piratés. Si tout échoue, plus de 1 000 ordinateurs situés en dehors de la zone utiliseront leur GPU et leur CPU pour deviner le mot de passe."
+ITEM.model = "models/tnb/props/laptop.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 50000
+ITEM.busflag = "dev"
+ITEM.securitytype =  "computers"
+ITEM.securityquality = 6
+ITEM.weight = 0.25
